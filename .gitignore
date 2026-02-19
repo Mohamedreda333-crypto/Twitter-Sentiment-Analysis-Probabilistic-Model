@@ -1,0 +1,24 @@
+# Python environment files
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Data files (Optional: if your datasets are very large, uncomment the next lines)
+# *.csv
+# *.xlsx
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
